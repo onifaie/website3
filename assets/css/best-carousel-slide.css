@@ -68,3 +68,31 @@ span {
   font-weight: inherit;
 }
 
+:root {
+  direction: rtl;
+}
+
+:root {
+}
+
+body {
+  direction: rtl;
+}
+
+img {
+  border: sold red;
+  border-color: red;
+  border-radius: 40p;
+}
+
+#linktreading {
+}
+
+div {
+  border-color: green;
+  border-width: 5px;
+  border: sold;
+  /*border-radius: 40px;*/
+  /*background-color: dark;*/
+}
+
