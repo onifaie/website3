@@ -1,0 +1,20 @@
+html {
+  direction: rtl;
+}
+
+body {
+  font-family: 'Cairo', sans-serif;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  direction: rtl;
+}
+
+.howto-img {
+  border-radius: 100px;
+  border-color: red;
+  border: sold;
+  border-width: 5px;
+  border-color: red;
+}
+
